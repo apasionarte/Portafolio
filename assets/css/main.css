@@ -308,14 +308,14 @@
   transform: translate(-50%, -50%);
   font-family: 'Bevan', cursive;
   /* color: #000080; */
-  font-size: 300%;
+  font-size: 250%;
   
   -webkit-text-stroke-color: #000;
   -webkit-text-stroke-width: 1px;
 /* shorthand */
   -webkit-text-stroke: 1px #000;
 /* color del texto */
-  -webkit-text-fill-color: rgba(255,255,255,0.5);
+  -webkit-text-fill-color: rgba(255,255,255,0.8);
   /* -webkit-text-fill-color: rgba(0,0,0,0); */
 }
 
